@@ -1,7 +1,7 @@
 # 📘 Git Complete Notes
 
-## 🔍 Installation & Configuration
 ```bash
+🔍 Installation & Configuration
 git --version                           # Check Git is installed
 git config --global user.name "Your Name"    # Set global username
 git config --global user.email "your_email@gmail.com"   # Set global email
