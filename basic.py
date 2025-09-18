@@ -37,4 +37,13 @@ git commit -m "first commit" => save point of git the folder was added before
 to now current status of save point run cmd 
 - git log --oneline
 
+
+to ignore such file that does not need to push, write that particular file name inside that file
+- create file => .gitignore
+
+to reset or go back to previous code
+hard => jitna bhi commit the pichla voh sab data do aur direct voh wala dikhao jaise tab har ek file folder tha
+soft, mixed
+- git reset --hard HEAD~1 => ek step piche jayega
+
 """
