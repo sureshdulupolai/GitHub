@@ -36,7 +36,8 @@ git commit -m "first commit" => save point of git the folder was added before
 
 to now current status of save point run cmd 
 - git log --oneline
-
+- git log => show every thing with date, time author etc.
+- git log --oneline --graph => 
 
 to ignore such file that does not need to push, write that particular file name inside that file
 - create file => .gitignore
@@ -45,5 +46,15 @@ to reset or go back to previous code
 hard => jitna bhi commit the pichla voh sab data do aur direct voh wala dikhao jaise tab har ek file folder tha
 soft, mixed
 - git reset --hard HEAD~1 => ek step piche jayega
+
+
+check kr skte ho aap konsi file kis stage mein hai
+- git status -s => show only maine think
+- git status => show every thing
+
+check karna ki kitne save checkpoints hai
+- git log
+
+
 
 """
