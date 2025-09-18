@@ -48,13 +48,13 @@ soft, mixed
 - git reset --hard HEAD~1 => ek step piche jayega
 
 
+git status show only that files, which is not commit or commit but also add some change and now add
+git doesn't show for commit file
 check kr skte ho aap konsi file kis stage mein hai
 - git status -s => show only maine think
 - git status => show every thing
 
 check karna ki kitne save checkpoints hai
 - git log
-
-
 
 """
