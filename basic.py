@@ -32,6 +32,9 @@ git config --global -e
 
 git init -> to init project
 git add . -> to add a file, but not pushed "A"
+git commit -m "first commit" => save point of git the folder was added before
 
+to now current status of save point run cmd 
+- git log --oneline
 
 """
